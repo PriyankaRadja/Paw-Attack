@@ -1,5 +1,5 @@
 # Paw-Attack
-A 2D html game using JavaScript. The game employs audio and visual effects to make the gameplay fun. 
+A 2D html game using JavaScript. The game employs audio and visual effects to make the gameplay fun. The player character is made using spritesheet. This game was made with reference to the edx course "HTML5 Apps and Games" given by W3C.
 
 ![alt text](https://github.com/PriyankaRadja/Paw-Attack/blob/master/data/img/mainpage.png "Paw Attack game start page")
 
