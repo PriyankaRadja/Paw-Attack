@@ -1,0 +1,18 @@
+body {
+  background-color: #e5ffe6;
+  text-align: center;
+}
+
+canvas {
+	border: 1px solid green;
+  background-image: url("../data/img/bg.jpg");
+  background-color: #c5ffc5;
+}
+
+h2 {
+  color: #469496;
+}
+
+h4 {
+  color: #267426;
+}
